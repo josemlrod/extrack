@@ -1,4 +1,4 @@
-# React Router Framework
+# React Router Framework Starter
 
 Starting point using:
 
