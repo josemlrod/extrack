@@ -22,6 +22,8 @@ Simple app to track workouts, and to show total lifted volume over time
 - [] Create the `/progress` screen
   - [] Display a chart showing each exercise set + weight lifted
 - [] Decide on a data structure for these entities
+- [] Create a User log-in/sign-up flow
+- [] Integrate user with existing entities
 
 ##### Nice to have:
 
