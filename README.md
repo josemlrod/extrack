@@ -12,19 +12,19 @@ Simple app to track workouts, and to show total lifted volume over time
 
 ##### Critical
 
-- [] Create the `/workouts` screen
-  - [] Create a new workout
-    - [] Add a set
-    - [] Add a exercise
-    - [] Add a repetition
-  - [] Edit a workout
-  - [] Delete a workout
-- [] Create the `/progress` screen
-  - [] Display a chart showing each exercise set + weight lifted
-- [] Decide on a data structure for these entities
-- [] Create a User log-in/sign-up flow
-- [] Integrate user with existing entities
+- [ ] Create the `/workouts` screen
+  - [ ] Create a new workout
+    - [ ] Add a set
+    - [ ] Add a exercise
+    - [ ] Add a repetition
+  - [ ] Edit a workout
+  - [ ] Delete a workout
+- [ ] Create the `/progress` screen
+  - [ ] Display a chart showing each exercise set + weight lifted
+- [ ] Decide on a data structure for these entities
+- [ ] Create a User log-in/sign-up flow
+- [ ] Integrate user with existing entities
 
 ##### Nice to have:
 
-- [] Smooth animation when switching between routes in `NavLinks`
+- [ ] Smooth animation when switching between routes in `NavLinks`
